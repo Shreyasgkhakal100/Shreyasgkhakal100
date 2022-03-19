@@ -14,11 +14,6 @@ interpersonal skills</p>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shreyasgkhakal100&theme=dracula&hide_border=true)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreyasgkhakal100&label=Profile%20views&color=0e75b6&style=flat" alt="Shreyasgkhakal100
-" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=
-Shreyasgkhakal100&row=2&column=3&margin-w=15&margin-h=15&no-frame=false&no-bg=true&theme=monokai" alt="Shreyasgkhakal100" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/KhakalShreyas" target="blank"><img src="https://img.shields.io/twitter/follow/KhakalShreyas?logo=twitter&style=for-the-badge" alt="KhakalShreyas" /></a> </p>
 
@@ -63,8 +58,8 @@ Click here for my [Resume](https://drive.google.com/file/d/1ku4HY_QYo-LBAcH1QAkH
   
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyasgkhakal100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
+   
+
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyasgkhakal100&show_icons=true&theme=react&border_color=61dafb&hide_border=true" width=500/></p>
-
-
