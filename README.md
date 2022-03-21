@@ -42,11 +42,17 @@ Click here for my [Resume](https://drive.google.com/file/d/1ku4HY_QYo-LBAcH1QAkH
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
+   <a href="https://shreyaskhakal.com" target="blank" >
+  <img align="center" src="https://www.portfoler.com/assets/images/icons/etap-authentication.svg" alt="ShreyasKhakal" height="30" width="40" />
+  </a>
 <a href="https://twitter.com/ShreyasKhakal" target="blank" >
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ShreyasKhakal" height="30" width="40" />
   </a>
 <a href="https://www.linkedin.com/in/shreyas-g-khakal/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shreyasgkhakal100" height="30" width="40" />
+  </a>
+   <a href="https://www.instagram.com/shreyas_g_khakal/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="h1t3ndr4" height="30" width="40" />
   </a>
 </p>
 
