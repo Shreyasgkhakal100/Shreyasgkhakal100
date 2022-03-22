@@ -4,7 +4,7 @@ proficiency in MERN Stack. A good learner and always excited to learn new
 things in terms of technology. Skilled in teamwork, collaboration, time
 management, and other interpersonal skills. Looking for an opportunity to
 work in a challenging position for a technology-driven organization.</p>
-<div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 />
+<div align="center"><img src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png" width=700 />
    <br><br>
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Shreyasgkhakal100&theme=dracula&hide_border=true)
