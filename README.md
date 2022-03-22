@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyas Khakal</h1>
-<p align="center">Full Stack Web Developer with a specialization in MERN
-Stack. Hands-on experience in application development. Skilled
-in building web applications using HTML, CSS JavaScript, React, Node.js, Express.js & Mongodb.
-Experience in ES6. Able to quickly learn and master
-new technologies. High-energy, confident professional with
-passion for technology. Flexible and capable of balancing
-multiple projects at the same time. Good in managing time
-and organizing tasks. Successful working in both team and
-self-directed environments with good communication and
-interpersonal skills</p>
+<p align="center">Efficient full stack web developer, having problem-solving ability and
+proficiency in MERN Stack. A good learner and always excited to learn new
+things in terms of technology. Skilled in teamwork, collaboration, time
+management, and other interpersonal skills. Looking for an opportunity to
+work in a challenging position for a technology-driven organization.</p>
 <div align="center"><img src="https://i.ibb.co/GTFBJNV/MERN-2.png" width=700 />
    <br><br>
   
